@@ -2,3 +2,4 @@
 
 w
 who
+free -m
